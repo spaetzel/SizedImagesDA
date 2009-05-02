@@ -1,0 +1,20 @@
+C:\Documents and Settings\William Spaetzel\My Documents\Visual Studio 2008\Projects\CastRoller\SizedImagesDA\bin\Release\SizedImagesDA.dll
+C:\Documents and Settings\William Spaetzel\My Documents\Visual Studio 2008\Projects\CastRoller\SizedImagesDA\bin\Release\SizedImagesDA.pdb
+C:\Documents and Settings\William Spaetzel\My Documents\Visual Studio 2008\Projects\CastRoller\SizedImagesDA\bin\Release\AmazonS3DA.dll
+C:\Documents and Settings\William Spaetzel\My Documents\Visual Studio 2008\Projects\CastRoller\SizedImagesDA\bin\Release\UtilityLibrary.dll
+C:\Documents and Settings\William Spaetzel\My Documents\Visual Studio 2008\Projects\CastRoller\SizedImagesDA\bin\Release\MySql.Data.dll
+C:\Documents and Settings\William Spaetzel\My Documents\Visual Studio 2008\Projects\CastRoller\SizedImagesDA\bin\Release\AmazonS3DA.pdb
+C:\Documents and Settings\William Spaetzel\My Documents\Visual Studio 2008\Projects\CastRoller\SizedImagesDA\bin\Release\UtilityLibrary.pdb
+C:\Documents and Settings\William Spaetzel\My Documents\Visual Studio 2008\Projects\CastRoller\SizedImagesDA\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\William Spaetzel\My Documents\Visual Studio 2008\Projects\CastRoller\SizedImagesDA\obj\Release\SizedImagesDA.dll
+C:\Documents and Settings\William Spaetzel\My Documents\Visual Studio 2008\Projects\CastRoller\SizedImagesDA\obj\Release\SizedImagesDA.pdb
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\CastRoller\SizedImagesDA\bin\Release\SizedImagesDA.dll
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\CastRoller\SizedImagesDA\bin\Release\SizedImagesDA.pdb
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\CastRoller\SizedImagesDA\bin\Release\AmazonS3DA.dll
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\CastRoller\SizedImagesDA\bin\Release\UtilityLibrary.dll
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\CastRoller\SizedImagesDA\bin\Release\MySql.Data.dll
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\CastRoller\SizedImagesDA\bin\Release\AmazonS3DA.pdb
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\CastRoller\SizedImagesDA\bin\Release\UtilityLibrary.pdb
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\CastRoller\SizedImagesDA\obj\Release\ResolveAssemblyReference.cache
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\CastRoller\SizedImagesDA\obj\Release\SizedImagesDA.dll
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\CastRoller\SizedImagesDA\obj\Release\SizedImagesDA.pdb

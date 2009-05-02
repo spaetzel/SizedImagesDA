@@ -1,0 +1,30 @@
+C:\Documents and Settings\William Spaetzel\My Documents\Visual Studio 2008\Projects\CastRoller\SizedImagesDA\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\William Spaetzel\My Documents\Visual Studio 2008\Projects\CastRoller\SizedImagesDA\bin\Debug\SizedImagesDA.dll
+C:\Documents and Settings\William Spaetzel\My Documents\Visual Studio 2008\Projects\CastRoller\SizedImagesDA\bin\Debug\SizedImagesDA.pdb
+C:\Documents and Settings\William Spaetzel\My Documents\Visual Studio 2008\Projects\CastRoller\SizedImagesDA\bin\Debug\UtilityLibrary.dll
+C:\Documents and Settings\William Spaetzel\My Documents\Visual Studio 2008\Projects\CastRoller\SizedImagesDA\bin\Debug\MySql.Data.dll
+C:\Documents and Settings\William Spaetzel\My Documents\Visual Studio 2008\Projects\CastRoller\SizedImagesDA\bin\Debug\UtilityLibrary.pdb
+C:\Documents and Settings\William Spaetzel\My Documents\Visual Studio 2008\Projects\CastRoller\SizedImagesDA\obj\Debug\SizedImagesDA.dll
+C:\Documents and Settings\William Spaetzel\My Documents\Visual Studio 2008\Projects\CastRoller\SizedImagesDA\obj\Debug\SizedImagesDA.pdb
+C:\Documents and Settings\William Spaetzel\My Documents\Visual Studio 2008\Projects\CastRoller\SizedImagesDA\bin\Debug\AmazonS3DA.dll
+C:\Documents and Settings\William Spaetzel\My Documents\Visual Studio 2008\Projects\CastRoller\SizedImagesDA\bin\Debug\AmazonS3DA.pdb
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\CastRoller\SizedImagesDA\bin\Debug\SizedImagesDA.dll
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\CastRoller\SizedImagesDA\bin\Debug\SizedImagesDA.pdb
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\CastRoller\SizedImagesDA\bin\Debug\AmazonS3DA.dll
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\CastRoller\SizedImagesDA\bin\Debug\UtilityLibrary.dll
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\CastRoller\SizedImagesDA\bin\Debug\MySql.Data.dll
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\CastRoller\SizedImagesDA\bin\Debug\AmazonS3DA.pdb
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\CastRoller\SizedImagesDA\bin\Debug\UtilityLibrary.pdb
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\CastRoller\SizedImagesDA\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\CastRoller\SizedImagesDA\obj\Debug\SizedImagesDA.dll
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\CastRoller\SizedImagesDA\obj\Debug\SizedImagesDA.pdb
+C:\Users\wspaetzel\Documents\Projects\SizedImagesDA\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\wspaetzel\Documents\Projects\SizedImagesDA\obj\Debug\SizedImagesDA.dll
+C:\Users\wspaetzel\Documents\Projects\SizedImagesDA\obj\Debug\SizedImagesDA.pdb
+C:\Users\wspaetzel\Documents\Projects\SizedImagesDA\bin\Debug\SizedImagesDA.dll
+C:\Users\wspaetzel\Documents\Projects\SizedImagesDA\bin\Debug\SizedImagesDA.pdb
+C:\Users\wspaetzel\Documents\Projects\SizedImagesDA\bin\Debug\AmazonS3DA.dll
+C:\Users\wspaetzel\Documents\Projects\SizedImagesDA\bin\Debug\SpaetzelUtilities.dll
+C:\Users\wspaetzel\Documents\Projects\SizedImagesDA\bin\Debug\MySql.Data.dll
+C:\Users\wspaetzel\Documents\Projects\SizedImagesDA\bin\Debug\AmazonS3DA.pdb
+C:\Users\wspaetzel\Documents\Projects\SizedImagesDA\bin\Debug\SpaetzelUtilities.pdb
