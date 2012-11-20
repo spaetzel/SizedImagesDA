@@ -6,7 +6,6 @@ using System.IO;
 using System.Web.UI.WebControls;
 using Spaetzel.UtilityLibrary;
 using System.Web.UI;
-using Spaetzel.UtilityLibrary.Email;
 using Spaetzel.SizedImagesDA;
 
 namespace Spaetzel.SizedImagesDA
@@ -15,7 +14,7 @@ namespace Spaetzel.SizedImagesDA
     {
         private System.Web.UI.WebControls.Image _image;
         private string _navigateUrl = "";
-        private string _imageUrl = "";
+        private Uri _imageUrl;
         private int _width =0 ;
         private int _height = 0;
    
@@ -35,7 +34,7 @@ namespace Spaetzel.SizedImagesDA
             set { _navigateUrl = value; }
         }
 
-        public string ImageUrl
+        public Uri ImageUrl
         {
             get { return _imageUrl; }
             set { _imageUrl = value; }

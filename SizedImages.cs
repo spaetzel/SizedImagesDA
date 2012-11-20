@@ -9,31 +9,42 @@ using System.Web;
 
 namespace Spaetzel.SizedImagesDA
 {
-    public class SizedImages : AccessorBase
+    public class SizedImages
     {
 
        
 
-        public static string GetSizedImageUrl(string ImageUrl, int Width, int Height)
+        public static string GetSizedImageUrl(Uri ImageUrl, int Width, int Height)
         {
-
-            if (!ImageUrl.Contains("gravatar.com") || !ImageUrl.Contains("castroller.com") )
+            if (!ImageUrl.IsNullOrEmpty())
             {
-                return String.Format("{0}/default.ashx?url={1}&width={2}&height={3}", Config.SizedBaseUrl, HttpUtility.UrlEncode(ImageUrl), Width, Height);
+                if (!ImageUrl.ToString().Contains("gravatar.com") || !ImageUrl.ToString().Contains("castroller.com"))
+                {
+                    return String.Format("{0}/{2}/{3}/{1}", Config.SizedBaseUrl, ImageUrl.ToString().Replace("http://", "").Replace("//", "DSLASH"), Width, Height);
+                }
+                else
+                {
+                    var min = Math.Min(Width, Height);
+
+
+
+
+                    ImageUrl = new Uri(ImageUrl.ToString().Replace("IMAGESIZE", min.ToString()));
+
+                    int defaultLocation = ImageUrl.ToString().IndexOf("d=");
+                    string defaultUrl = ImageUrl.ToString().Substring(defaultLocation + 2);
+
+                    return ImageUrl.ToString().Replace(defaultUrl, HttpUtility.UrlEncode(defaultUrl));
+
+                    //      string noDefault = ImageUrl.ToString().Substring(0, ImageUrl.ToString().IndexOf("&d="));
+
+                    //   return String.Format("{0}&d={1}", noDefault, HttpUtility.UrlEncode(defaultUrl));
+
+                }
             }
             else
             {
-                var min = Math.Min(Width, Height);
-
-                
-               
-
-                ImageUrl = ImageUrl.Replace("IMAGESIZE", min.ToString());
-
-                int defaultLocation = ImageUrl.IndexOf("d=");
-                string defaultUrl = ImageUrl.Substring(defaultLocation + 2);
-
-                return ImageUrl.Replace(defaultUrl, HttpUtility.UrlEncode(defaultUrl));
+                return "";
             }
 
         }
